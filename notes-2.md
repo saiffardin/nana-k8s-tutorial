@@ -29,5 +29,9 @@ We're going to deploy 2 applications **mongoDB** and **mongo-express**
 
 ---
 
+## Connect *secret* to *deployments*
+![11.png](./images/11.png)
+
+
 
 
