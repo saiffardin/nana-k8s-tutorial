@@ -32,6 +32,9 @@ We're going to deploy 2 applications **mongoDB** and **mongo-express**
 ## Connect *secret* to *deployments*
 ![11.png](./images/11.png)
 
+---
 
+## Connect *Service* to *deployments (pods)*
+![12.png](./images/12.png)
 
 
